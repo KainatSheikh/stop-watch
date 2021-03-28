@@ -1,0 +1,75 @@
+html {
+height: 100%;
+}
+body {
+    height: 100%;
+ display: flex;
+ justify-content: content;
+ align-items: center;
+}
+.txt {
+    padding: 15px;
+    border-radius: 5px;
+    background-color: purple;
+}
+.hey {
+margin: 0;
+background-color: skyblue;
+color: blue;
+font-size: 65px;
+border-radius: 5px;
+padding: 10px;
+
+}
+
+
+
+h1{
+    padding: 15px;
+    align-items: center;
+    height: 100px;
+    font-style: italic;
+    text-align: right;
+    text-decoration: double;
+    text-shadow: 0mm;
+text-decoration-color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
